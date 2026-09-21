@@ -1,8 +1,8 @@
-# Sistema de Consumo de Água
+# 💧 Sistema de Consumo de Água
 
 ## Objetivo
 
-Programa em Python que classifica o consumo mensal de água de acordo com o tipo do imóvel e o consumo informado.
+Programa em Python que classifica o consumo mensal de água de acordo com o tipo do imóvel e o consumo informado
 
 **Linguagem utilizada:** Python
 
@@ -21,7 +21,7 @@ Programa em Python que classifica o consumo mensal de água de acordo com o tipo
 
 ## Como funciona
 
-O programa solicita ao usuário o tipo do imóvel e, quando necessário, o consumo mensal de água em m³
+O programa solicita ao usuário o tipo do imóvel e o consumo mensal de água em m³
 
 Em seguida, utiliza estruturas condicionais para identificar a classificação do consumo de acordo com as regras estabelecidas
 
@@ -31,5 +31,4 @@ Em seguida, utiliza estruturas condicionais para identificar a classificação d
 2. Abra o arquivo `app.py`
 3. Execute o programa
 4. Informe o tipo do imóvel
-5. Informe o consumo mensal de água quando solicitado
-6. Confira a classificação apresentada pelo programa
+5. Informe o consumo mensal de água em m³
