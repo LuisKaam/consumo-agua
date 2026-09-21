@@ -28,7 +28,7 @@ Em seguida, utiliza estruturas condicionais para identificar a classificação d
 ## Como executar
 
 1. Tenha o Python instalado
-2. Abra o arquivo `LuisKaam_Ag7_DS_I.py`
+2. Abra o arquivo `app.py`
 3. Execute o programa
 4. Informe o tipo do imóvel
 5. Informe o consumo mensal de água quando solicitado
