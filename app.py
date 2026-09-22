@@ -1,5 +1,5 @@
 # Define o tipo de imóvel e o consumo de água
-tipo = input("Digite o tipo do imóvel (casa, apartamento, comercial): ")
+tipo = input("Digite o tipo do imóvel (casa, apartamento, comercial): ").strip().lower()
 consumoAgua = float(input("Digite o consumo de água em m³: "))
 
 # Verifica se o imóvel é comercial
